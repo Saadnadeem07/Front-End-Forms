@@ -1,5 +1,7 @@
 <ul><h1>Overview</h1></ul>
-<h2>This repository serves as a demonstration of frontend form validation using HTML, CSS, and JavaScript. It includes two separate HTML files for sign-in and sign-up forms, along with corresponding CSS files for styling. JavaScript is utilized for client-side validation, covering various validation checks such as empty fields, email format, password complexity, and more.</h2>
+<h3>This repository serves as a demonstration of frontend form validation using HTML, CSS, and JavaScript. <br>
+It includes two separate HTML files for sign-in and sign-up forms, along with corresponding CSS files for styling.<br>
+JavaScript is utilized for client-side validation, covering various validation checks such as empty fields, email format, password complexity, and more.</h2>
 
 
 <ul><h2>Features</h2></ul>
@@ -11,10 +13,10 @@
 <li>Best Practices: Demonstrates best practices for form validation in web development, including accessibility and user experience considerations.</li>
 </h3>
 
-<ul> <h2>How to Use</h2>
+<ul> <h2>How to Use
 <li>Clone the repository: git clone https://github.com/hassanhaseen/Frontend-Form-Validation-Demo.git</li>
 <li>Open signin.html or signup.html in your web browser.</li>
 <li>Try signing in or signing up with valid and invalid inputs to see the validation in action.</li>
 </ul>
-
+</h2>
 
