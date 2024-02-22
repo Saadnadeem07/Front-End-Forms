@@ -4,7 +4,7 @@ It includes two separate HTML files for sign-in and sign-up forms, along with co
 JavaScript is utilized for client-side validation, covering various validation checks such as empty fields, email format, password complexity, and more.</h2>
 
 
-<ul><h2>Features</h2></ul>
+<ul><h1>Features</h1></ul>
 <h3>
 <li>Sign-In Form: Simple form for users to sign in, with validation for username and password fields.</li>
 <li>Sign-Up Form: Comprehensive form for new users to sign up, with validation for username, password, email, age, address, and city fields.</li>
@@ -13,7 +13,7 @@ JavaScript is utilized for client-side validation, covering various validation c
 <li>Best Practices: Demonstrates best practices for form validation in web development, including accessibility and user experience considerations.</li>
 </h3>
 
-<ul> <h2>How to Use </h2> </ul>
+<ul> <h1>How to Use </h1> </ul>
 <h3>
 <li>Clone the repository: git clone https://github.com/hassanhaseen/Frontend-Form-Validation-Demo.git</li>
 <li>Open signin.html or signup.html in your web browser.</li>
