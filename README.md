@@ -6,11 +6,11 @@ JavaScript is utilized for client-side validation, covering various validation c
 
 <ul><h1>Features</h1></ul>
 
-<li>Sign-In Form: Simple form for users to sign in, with validation for username and password fields.</li>
-<li>Sign-Up Form: Comprehensive form for new users to sign up, with validation for username, password, email, age, address, and city fields.</li>
-<li>Client-Side Validation: Utilizes JavaScript to perform validation on the client side, providing instant feedback to users.</li>
-<li>Custom Validations: Includes custom validation checks for email format, password complexity, and age range.</li>
-<li>Best Practices: Demonstrates best practices for form validation in web development, including accessibility and user experience considerations.</li>
+<li>  Sign-In Form: Simple form for users to sign in, with validation for username and password fields.</li>
+<li>  Sign-Up Form: Comprehensive form for new users to sign up, with validation for username, password, email, age, address, and city fields.</li>
+<li>  Client-Side Validation: Utilizes JavaScript to perform validation on the client side, providing instant feedback to users.</li>
+<li>  Custom Validations: Includes custom validation checks for email format, password complexity, and age range.</li>
+<li>  Best Practices: Demonstrates best practices for form validation in web development, including accessibility and user experience considerations.</li>
 
 <h1>Tools and Technology</h1>
 <br>
