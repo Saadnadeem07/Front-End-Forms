@@ -1,7 +1,7 @@
 <ul><h1>Overview</h1></ul>
-<h3>This repository serves as a demonstration of frontend form validation using HTML, CSS, and JavaScript. <br>
+<h6>This repository serves as a demonstration of frontend form validation using HTML, CSS, and JavaScript. <br>
 It includes two separate HTML files for sign-in and sign-up forms, along with corresponding CSS files for styling.<br>
-JavaScript is utilized for client-side validation, covering various validation checks such as empty fields, email format, password complexity, and more.</h2>
+JavaScript is utilized for client-side validation, covering various validation checks such as empty fields, email format, password complexity, and more.</h6>
 
 
 <ul><h1>Features</h1></ul>
