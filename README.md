@@ -13,10 +13,11 @@ JavaScript is utilized for client-side validation, covering various validation c
 <li>Best Practices: Demonstrates best practices for form validation in web development, including accessibility and user experience considerations.</li>
 </h3>
 
-<ul> <h2>How to Use
+<ul> <h2>How to Use </h2> </ul>
+<h3>
 <li>Clone the repository: git clone https://github.com/hassanhaseen/Frontend-Form-Validation-Demo.git</li>
 <li>Open signin.html or signup.html in your web browser.</li>
 <li>Try signing in or signing up with valid and invalid inputs to see the validation in action.</li>
-</ul>
-</h2>
+
+</h3>
 
