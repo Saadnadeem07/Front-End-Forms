@@ -1,0 +1,24 @@
+name: CI Checks for Sign-in/Sign-up Page
+
+on:
+  push:
+    branches:
+      - main
+  pull_request:
+
+jobs:
+  lint-format:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+
+      - name: Install Prettier & ESLint
+        run: npm install -g prettier eslint
+
+      - name: Lint JavaScript
+        run: eslint validation.js --fix || true
+
+      - name: Format HTML & CSS
+        run: prettier --write "*.html" "*.css"
